@@ -1,0 +1,13 @@
+_tmp_*
+_fonts/
+_assemble*
+_insert*
+research_results/
+*_research.json
+search_prompts.txt
+research.py
+*.pyc
+.DS_Store
+.claude/
+.mcp.json
+PROFILE.md
